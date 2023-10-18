@@ -14,7 +14,7 @@ export default function Home() {
       hover:border-gray-300 hover:bg-white/50"
         >
           <p className="text-sm font-semibold text-gray-700">
-            Inkfusion is now Public!
+            inkprint is now Public!
           </p>
         </div>
         <h1 className='max-w-4xl text-5xl font-bold md:text-6xl lg:text-7xl text-center'>
@@ -23,7 +23,7 @@ export default function Home() {
           in seconds.
         </h1>
         <p className="mt-5 max-w-prose text-zinc-700 sm:text-lg ">
-          Inkfusion allows you have to any conversation with your PDFs. Just
+          inkprint allows you have to any conversation with your PDFs. Just
           simply upload your favourite PDFs and explore them in a way that you
           have never explored before.
         </p>
@@ -98,7 +98,7 @@ export default function Home() {
             </h2>
             <p className="mt-4 text-lg text-gray-600">
               Chatting with your Pdfs has never been more easier than with
-              Inkfusion.
+              inkprint.
             </p>
           </div>
         </div>
@@ -143,7 +143,7 @@ export default function Home() {
                 Start asking your questions
               </span>
               <span className="mt-2 text-zinc-700 ">
-                It&apos;s that simple. Try out Inkfusion today - Why read it when
+                It&apos;s that simple. Try out inkprint today - Why read it when
                 it&apos;s much easier to chat with.
               </span>
             </div>
