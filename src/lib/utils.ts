@@ -16,8 +16,8 @@ export function absoluteUrl(path: string) {
 }
 
 export function constructMetadata({
-  title = "inkprint - the SaaS for Learners",
-  description = "inkprint is an open-source software to make chatting to your PDF files easy.",
+  title = "Inkfusion - the SaaS for Learners",
+  description = "Inkfusion is an open-source software to make chatting to your PDF files easy.",
   image = "/thumbnail.png",
   icons = "/favicon.ico",
   noIndex = false
@@ -48,7 +48,7 @@ export function constructMetadata({
       creator: "AbhinavRaizero"
     },
     icons,
-    metadataBase: new URL('https://inkprint-jet.vercel.app'),
+    metadataBase: new URL('https://inkfusion-jet.vercel.app'),
     themeColor: '#FFF',
     ...(noIndex && {
       robots: {

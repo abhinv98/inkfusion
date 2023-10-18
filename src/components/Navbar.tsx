@@ -21,7 +21,7 @@ const Navbar = () => {
           <Link
             href='/'
             className='flex z-40 font-semibold'>
-            <span>inkprint.</span>
+            <span>inkfusion.</span>
           </Link>
 
           <MobileNav isAuth={!!user} />
