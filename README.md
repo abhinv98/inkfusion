@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This project on localhost is able to create optimized queries and is able to answer complicated prompts using Chat Context and is able to perform seamlessly, but after deploying it on Vercel the "fetchMessage" functionality of the openai api gets interrupted after 10 secs along with some other bugs since there is a restriction on the maximum duration of any function in the hobby plan of Vercel. To solve this problem I aim to use the Openai-edge function and prisma-acclerate and implement it in the future.
+
 ## Getting Started
 
 First, run the development server:
